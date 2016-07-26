@@ -10,7 +10,7 @@
 
 
 ##How to Interact with the App
-*CLI
-*Web App
-*Desktop App (Electron)
-*Mobile App (Ionic)
+*CLI  
+*Web App  
+*Desktop App (Electron)  
+*Mobile App (Ionic)  
